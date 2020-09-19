@@ -5,7 +5,7 @@ Small learning rate : 수렴 속도 느림, stops at local minimum <br><br>
 #### Ways to setting learning rate <br>
 => Try several learning rates <br>
 observe the cost function (ex) learning rate : 0.1 <br>
-Check it goes down in a reasonable rate <br>
+Check it goes down in a reasonable rate <br><br>
 
 # Normalize <br>
 Standardization <br>
@@ -19,6 +19,8 @@ training dataset에서는 잘 작동하지만, test dataset에서는 결과가 �
 
 => Reduce the number of features <br><br>
 
-
-
+=> Regularization <br>
+Let's not have too big numbers in the weight <br>
+![image7_2](https://user-images.githubusercontent.com/57740560/93662415-d85b6f80-fa9a-11ea-9a5f-392085d9cea5.png) <br>
+ 
 
