@@ -24,6 +24,7 @@ Let's not have too big numbers in the weight <br>
 ![image7_2](https://user-images.githubusercontent.com/57740560/93662415-d85b6f80-fa9a-11ea-9a5f-392085d9cea5.png) <br><br>
  
 # Training, validation and test sets <br>
-![image7_3](https://user-images.githubusercontent.com/57740560/93662616-5409ec00-fa9c-11ea-930a-d1908ba8e917.png)
+![image7_3](https://user-images.githubusercontent.com/57740560/93662641-92071000-fa9c-11ea-85a4-ef89332c57a0.png)
+
 
 
