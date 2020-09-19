@@ -21,6 +21,9 @@ training dataset에서는 잘 작동하지만, test dataset에서는 결과가 �
 
 => Regularization <br>
 Let's not have too big numbers in the weight <br>
-![image7_2](https://user-images.githubusercontent.com/57740560/93662415-d85b6f80-fa9a-11ea-9a5f-392085d9cea5.png) <br>
+![image7_2](https://user-images.githubusercontent.com/57740560/93662415-d85b6f80-fa9a-11ea-9a5f-392085d9cea5.png) <br><br>
  
+# Training, validation and test sets <br>
+![image7_3](https://user-images.githubusercontent.com/57740560/93662560-0a210600-fa9c-11ea-9c6d-ab3ff9c4aa0b.png)
+
 
