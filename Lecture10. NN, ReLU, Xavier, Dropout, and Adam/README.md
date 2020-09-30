@@ -31,9 +31,9 @@ Solutions of overfitting <br><br>
 1. More training data <br>
 2. Regularization <br><br>
 
-+) Dropout <br>
-![figure2](https://user-images.githubusercontent.com/57740560/94718814-3b97ac80-038d-11eb-9426-17b87418d375.png) <br>
-node를 random하게 선택하여 연결을 끊는다. dropout rate를 설정할 수 있다. 단, 학습할때만 dropout을 사용하고 test에서는 전체 node를 사용해야 함. <br><br>
+## +) Dropout <br>
+node를 random하게 선택하여 연결을 끊는다. dropout rate를 설정할 수 있다. 단, 학습할때만 dropout을 사용하고 test에서는 전체 node를 사용해야 함. <br>
+![figure2](https://user-images.githubusercontent.com/57740560/94718814-3b97ac80-038d-11eb-9426-17b87418d375.png) <br><br>
 
 # Ensemble <br>
 학습시킬 수 있는 기기가 많을 때 독립된 여러개의 NN으로 학습시켜 마지막에 combine. Ensemble 모델 사용시 2~4-5% 성능 향상. <br><br>
