@@ -11,5 +11,5 @@ Chain rule을 통해 output에 대한 입력값의 미분값을 구할 수 있�
 # Tensorboard  <br>
 Tensorflow 시각화 도구로 loss, accuracy 시각화, 모델 그래프 시각화, weight, biases, 기타 텐서의 히스토그램 확인 등 다양한 기능을 제공한다.  <br> <br>
 
-참고 자료 및 이미지 출처 <br>
+[참고 자료 및 이미지 출처] <br>
 모두를 위한 딥러닝 시즌1 
