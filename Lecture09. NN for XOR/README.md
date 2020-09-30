@@ -1,7 +1,8 @@
-# XOR using NN <br>
+# XOR using NN <br><br>
 ![figure1](https://user-images.githubusercontent.com/57740560/94712423-6f220900-0384-11eb-9341-6c833057d1e6.png) <br><br>
 
-XOR 문제를 위와 같이 세 개의 layer를 통해 해결할 수 있다. 첫 2개의 layer를 vector로 묶어 코드로 나타내면 다음과 같다. <br>
+XOR 문제를 위와 같이 세 개의 layer를 통해 해결할 수 있다. 첫 2개의 layer를 vector로 묶어 코드로 나타내면 다음과 같다. <br><br>
+
 K(**X**) = sigmoid(**X** **W_1** + **b_1**) <br>
 hypothesis = sigmoid(K(**X**)**W_2** + b_2) <br><br>
 
