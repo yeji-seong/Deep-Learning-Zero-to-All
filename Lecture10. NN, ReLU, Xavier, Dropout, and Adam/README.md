@@ -24,7 +24,7 @@ sigmoid의 Vanishing gradient 해결을 위해 제안됨 <br><br>
 ![figure2](https://user-images.githubusercontent.com/57740560/94715903-0ab57880-0389-11eb-9548-73d27612c929.png) <br><br>
 
 # Overfitting <br>
-Training dataset에 최적화되어 Training data에서는 높은 accuracy를 보이지만, test dataset에서 accuracy가 낮음. layer가 많을 수록 overfitting 가능성 높음. <br><br>
+Training dataset에 최적화되어 Training data에서는 높은 accuracy를 보이지만, test dataset에서 accuracy가 낮은 현상. layer가 많을 수록 overfitting 가능성 높음. <br><br>
 
 Solutions of overfitting <br><br>
 
