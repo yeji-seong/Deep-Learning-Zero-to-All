@@ -1,10 +1,10 @@
 # AWS
 ## Deep Network
 Takes a long time for training <br>
--Many forward/backward propagation and weight updates <br>
--Many metrics multiplications <br>
+- Many forward/backward propagation and weight updates <br>
+- Many metrics multiplications <br>
 Very quick for testing and use in practice <br>
--One simple forward propagation <br><br>
+- One simple forward propagation <br><br>
 
 ## GPU
 GPU를 사용해 프로그램을 돌리면 속도가 빨라진다. <br><br>
