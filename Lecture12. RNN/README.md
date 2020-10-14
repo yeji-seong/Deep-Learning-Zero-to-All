@@ -12,7 +12,7 @@ RNN의 경우 new state를 결정하기 위해서 old state와 input vector가 �
 - Machine Translation <br>
 - Conversation Modeling/Question Answering <br>
 - Image/Video Captioning <br>
-- Image/Music/Dance Generation <br>
+- Image/Music/Dance Generation <br><br>
 
 ## RNN offer a lot of flexibility:
 ![figure1](https://user-images.githubusercontent.com/57740560/95970537-0722f680-0e4b-11eb-9afc-2574a04ab074.png)
