@@ -1,8 +1,9 @@
 # AWS
 ## Deep Network
-1.Takes a long time for training <br>
+1. Takes a long time for training <br>
 Many forward/backward propagation and weight updates <br>
-Many metrics multiplications <br>
+Many metrics multiplications <br><br>
+
 2. Very quick for testing and use in practice <br>
 One simple forward propagation <br><br>
 
